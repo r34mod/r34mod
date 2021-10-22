@@ -67,7 +67,7 @@ Find out more about me & feel free to connect with me here:
 ![VS](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white)
 
-
+---
 
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=r34mod&show_icons=true&hide_border=true&theme=gruvbox" />
