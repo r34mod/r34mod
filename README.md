@@ -69,6 +69,25 @@ Find out more about me & feel free to connect with me here:
 
 ---
 
+### About 📌
+
+### ✔  **Domain :** Full-Stack 💻
+### ✔  **Skills :** Javascript, Vue, ReactJs, Angular, MongoDB, Mysql, Node.js, PHP, C#, Python, Java
+### ✔  **Learning :** C#
+### ✔  **Hobbies :**  Create mods to PC games, reshade files
+
+<hr>
+
+### S.O 💻
+
+### ✔  Ubuntu, Debian, Parrot OS
+### ✔  Windows
+### ✔  MacOS
+
+<hr>
+
+---
+
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=r34mod&show_icons=true&hide_border=true&theme=gruvbox" />
  
