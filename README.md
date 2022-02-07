@@ -1,7 +1,7 @@
 ## Hey, I am ierai (r34mod)! Great to see you here! <img src="https://raw.githubusercontent.com/Asmit2952/Asmit2952/master/src/wave.gif?token=ATQS65XWY4MME7NJYAZ4LCTBN34AU" width="30px">
 
 <br>
-Currently I am working in Viewnext in Madrid like fullstack dev, using ReactJs, AngularJs, NodeJS, Swagger and IBM Cloud. 
+Currently I am working in Viewnext in Madrid like fullstack dev, using ReactJs, AngularJs, NodeJS, Swagger. 
 In my freetime, I create some mods to videogames or some projects like bots to Discord.
 
 
